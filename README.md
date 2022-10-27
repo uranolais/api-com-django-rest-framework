@@ -18,4 +18,6 @@ em que foram criados projetos para criação e consumo de APIs, para uma escola 
 # ✅ Tecnologias utilizadas
 - `Python`
 - `Django`
+- `HTML`
+- `JSON`
 
